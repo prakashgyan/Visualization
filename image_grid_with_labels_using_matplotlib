@@ -2,7 +2,7 @@ import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
 from mpl_toolkits.axes_grid1 import ImageGrid
 
-# list containing location of images to populate
+# list containing location of images to populate -- i have used some placeholders here- -
 all_images_addr = ['https://via.placeholder.com/150', 'https://via.placeholder.com/150',
                    'https://via.placeholder.com/300', 'https://via.placeholder.com/300']
 n_rows = 2
